@@ -17,10 +17,10 @@ I am a Research Assistant in Korea Institute of Science Technology. Previously, 
 
 ## Skills
 
-> Programming Languages
-> - Python(Pytorch, Tenserflow), Java, C, C++, R, SAS, HTML, PHP
-> Servers and Databases
-> - Amazon Web services, Google Cloud, PySpark, Hadoop Mapreduce, MySQL
+#### Programming Languages
+Python(Pytorch, Tenserflow), Java, C, C++, R, SAS, HTML, PHP
+#### Servers and Databases
+Amazon Web services, Google Cloud, PySpark, Hadoop Mapreduce, MySQL
 
 ## Publications
 
@@ -30,8 +30,13 @@ I am a Research Assistant in Korea Institute of Science Technology. Previously, 
 ## Education
 #### [Yonsei University](https://www.yonsei.ac.kr)<br>
 <img class="profile-picture" src="Yonsei.png">
-Bachelor of Science in **Computer Science**, College of Engineering, Spring 2014 - Fall 2018<br>
-Bachelor of Arts in **Applied Statistics**, College of Commerce & Economics, Spring 2014 - Fall 2018
+Bachelor of Science in **Computer Science**, College of Engineering,<br>
+Spring 2014 - Fall 2018<br>
+Bachelor of Arts in **Applied Statistics**, College of Commerce & Economics,<br>
+Spring 2014 - Fall 2018<br><br>
+**Honors Student(2018)**<br>
+**Next Century Humanities Scholarships**, Korea Student Aid Foundation (2014 – 2018)
+*Received a full scholarship for four years, based on grade*
 
 ---
 
@@ -47,13 +52,35 @@ Mar, 2011 - Feb, 2014
 
 ---
 
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
 ## Work Experience
 
 #### Korea Institute of Science and Technology<br>
 Seoul, Republic of Korea / Mar, 2019 – Present
 
+## Research Experience
+#### Data Engineering Laboratory, Yonsei University
+*Research Assistant (Advisor: Professor Sanghyun Park)*<br>
+Seoul, Republic of Korea<br>
+Oct, 2017 – Aug, 2018<br>
+**TV Script Chatbot**
+-  Developed a dialogue model that generated answers based on the relationship between
+characters.
+-  Developed a sentence-embedding similarity model and LSTM encoder-decoder model with
+attention.
+-  Served the chatbot through KakaoTalk.
+**Customer Center Consultation Text Clustering (with SK Telecom Inc.)**
+- Utilized Latent Dirichlet Allocation topic modeling to categorize conversations between
+customers and counselors by subject.
+
+## Teaching
+
+#### DS School
+*Teaching Assistant* <br>
+- Taught introductory data science in preparation for Kaggle competitions
+- Covered Python programming as well as the theory and implementation of machine learning algorithms
+
+#### Dream Start Program, Samsung Dream Scholarship Foundation
+*Teaching Assistant*<br>
+Seoul, Republic of Korea<br>
+Jul, 2015 – Aug, 2015<br>
+- Tutored low-income middle school students in English.
