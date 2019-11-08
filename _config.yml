@@ -20,7 +20,3 @@ nav:
    link: "/"
  - name: "Projects"
    link: "projects"
- - name: "CV"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
