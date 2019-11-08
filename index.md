@@ -22,6 +22,7 @@ I am a Research Assistant in Korea Institute of Science Technology. Previously, 
 
 ## Education
 #### [Yonsei University](https://www.yonsei.ac.kr)<br>
+<img class="profile-picture" src="img_symbol8.png">
 Bachelor of Science in **Computer Science**, College of Engineering, Spring 2014 - Fall 2018<br>
 Bachelor of Arts in **Applied Statistics**, College of Commerce & Economics, Spring 2014 - Fall 2018
 
