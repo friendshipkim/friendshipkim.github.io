@@ -6,7 +6,8 @@ layout: default
 
 <img class="profile-picture" src="shiba.jpg">
 
-I am a Research Assistant in Korea Institute of Science Technology. Previously, I was an undergraduate at Yonsei University from which I received a B.S. in Computer Science and a B.A. in Applied Statistics in 2019.
+I am a Research Assistant in Korea Institute of Science Technology. Previously, I was an undergraduate at Yonsei University from which I received a B.S. in Computer Science and a B.A. in Applied Statistics in 2019.<br>
+[<img class="icon" src="pdf.png">Curriculum Vitae](CV_Woojeong_Kim.pdf)
 
 ## Research Interest
 
