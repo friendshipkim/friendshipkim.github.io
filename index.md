@@ -21,19 +21,19 @@ I am a Research Assistant in Korea Institute of Science Technology. Previously, 
 2. *Dynamic Filter Pruning with Clustering for Deep Convolutional Neural Networks Acceleration*, Second Author (in preparation, expected to be submitted in Nov, 2019)
 
 ## Education
-[Yonsei University](https://www.yonsei.ac.kr)<br>
+#### [Yonsei University](https://www.yonsei.ac.kr)<br>
 Bachelor of Science in **Computer Science**, College of Engineering, Spring 2014 - Fall 2018<br>
 Bachelor of Arts in **Applied Statistics**, College of Commerce & Economics, Spring 2014 - Fall 2018
 
 ---
 
-[State University of Albany](https://www.albany.edu)<br>
+#### [State University of Albany](https://www.albany.edu)<br>
 *Exchange Student*<br>
 Jan, 2016 - June, 2016
 
 ---
 
-[Ewha Girl's Foriegn Language High School](https://www.ewha-gfh.hs.kr)<br>
+#### [Ewha Girl's Foriegn Language High School](https://www.ewha-gfh.hs.kr)<br>
 Majored in Chinese, English<br>
 Mar, 2011 - Feb, 2014
 
