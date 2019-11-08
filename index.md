@@ -34,8 +34,8 @@ Bachelor of Science in **Computer Science**, College of Engineering,<br>
 Spring 2014 - Fall 2018<br>
 Bachelor of Arts in **Applied Statistics**, College of Commerce & Economics,<br>
 Spring 2014 - Fall 2018<br><br>
-**Honors Student(2018)**<br>
-**Next Century Humanities Scholarships**, Korea Student Aid Foundation (2014 – 2018)
+**Honors Student(2018)**<br><br>
+**Next Century Humanities Scholarships**, Korea Student Aid Foundation (2014 – 2018)<br>
 *Received a full scholarship for four years, based on grade*
 
 ---
