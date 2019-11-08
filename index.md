@@ -15,6 +15,13 @@ I am a Research Assistant in Korea Institute of Science Technology. Previously, 
 - Interpretable word representations
 - High-performance unsupervised neural models
 
+## Skills
+
+> Programming Languages
+> - Python(Pytorch, Tenserflow), Java, C, C++, R, SAS, HTML, PHP
+> Servers and Databases
+> - Amazon Web services, Google Cloud, PySpark, Hadoop Mapreduce, MySQL
+
 ## Publications
 
 1. *Improving Word Representations with Weighted Subword Information*, Lead Author (in preparation, expected to be submitted in Dec, 2019)
