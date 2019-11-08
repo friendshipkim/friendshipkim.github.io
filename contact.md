@@ -3,24 +3,22 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [kwj962004@gmail.com](mailto:kwj962004@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: Privacy
 
+* Github: [friendshipkim](github.com/friendshipkim)
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> Hwarangro 14gil 5, Seongbuk-gu, Seoul
 >
-> London
->
-> United Kingdom
+> Republic of Korea
 
 ---
 
 ## Social
 
 1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+2. [Instagram](#)
