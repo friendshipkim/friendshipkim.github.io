@@ -4,7 +4,7 @@ layout: default
 
 ## Woo-Jeong, Kim
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="shiba.jpg">
 
 I am a Research Assistant in Korea Institute of Science Technology. Previously, I was an undergraduate at Yonsei University from which I received a B.S. in Computer Science and a B.A. in Applied Statistics in 2019.
 
