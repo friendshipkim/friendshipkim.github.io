@@ -2,44 +2,50 @@
 layout: default
 ---
 
-## About Me
+## Woo-Jeong, Kim
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+I am a Research Assistant in Korea Institute of Science Technology. Previously, I was an undergraduate at Yonsei University from which I received a B.S. in Computer Science and a B.A. in Applied Statistics in 2019.
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+#### Natural Language Processing with Machine Learning
+- Generating diverse and context-coherent dialogue
+- Interpretable word representations
+- High-performance unsupervised neural models
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. *Improving Word Representations with Weighted Subword Information*, Lead Author (in preparation, expected to be submitted in Dec, 2019)
+2. *Dynamic Filter Pruning with Clustering for Deep Convolutional Neural Networks Acceleration*, Second Author (in preparation, expected to be submitted in Nov, 2019)
 
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
+## Education
+[Yonsei University](https://www.yonsei.ac.kr)
+Bachelor of Science in **Computer Science**, College of Engineering, Spring 2014 - Fall 2018
+Bachelor of Arts in **Applied Statistics**, College of Commerce & Economics, Spring 2014 - Fall 2018
 
 ---
+
+[State University of Albany](https://www.albany.edu)
+*Exchange Student*
+Jan, 2016 - June, 2016
+
+---
+
+[Ewha Girl's Foriegn Language High School](https://www.ewha-gfh.hs.kr)
+Majored in Chinese, English
+Mar, 2011 - Feb, 2014
+
+---
+
 
 Here is a blockquote
 
 > To a great mind, nothing is little
 
-## References
+## Work Experience
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+#### Korea Institute of Science and Technology
+Seoul, Republic of Korea / Mar, 2019 – Present
+
