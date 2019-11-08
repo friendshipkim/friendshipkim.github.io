@@ -62,12 +62,14 @@ Seoul, Republic of Korea / Mar, 2019 – Present
 *Research Assistant (Advisor: Professor Sanghyun Park)*<br>
 Seoul, Republic of Korea<br>
 Oct, 2017 – Aug, 2018<br>
+
 **TV Script Chatbot**
 -  Developed a dialogue model that generated answers based on the relationship between
 characters.
 -  Developed a sentence-embedding similarity model and LSTM encoder-decoder model with
 attention.
--  Served the chatbot through KakaoTalk.
+-  Served the chatbot through KakaoTalk.<br>
+
 **Customer Center Consultation Text Clustering (with SK Telecom Inc.)**
 - Utilized Latent Dirichlet Allocation topic modeling to categorize conversations between
 customers and counselors by subject.
