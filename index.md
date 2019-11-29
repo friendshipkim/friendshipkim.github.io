@@ -15,7 +15,7 @@ I am a Research Assistant in Korea Institute of Science Technology. Previously, 
 - Generating diverse and context-coherent dialogue
 - Interpretable word representations
 - High-performance unsupervised neural models
-- [Test](/prjoect/dummy_md.html)
+- [Test](/project/dummy_md.html)
 
 ## Skills
 
