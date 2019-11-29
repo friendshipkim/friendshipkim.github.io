@@ -16,7 +16,6 @@ I am a Research Assistant in Korea Institute of Science Technology. Previously, 
 - Interpretable word representations
 - High-performance unsupervised neural models
 - [Test](/project/dummy_md.html)
-- [Test2](/_posts/test_project.html)
 
 ## Skills
 
