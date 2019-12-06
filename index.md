@@ -28,11 +28,11 @@ I am a Research Assistant in Korea Institute of Science Technology. Previously, 
 
 ---
 
-**Customer Survey Result Analysis(2018)**
+**Customer Survey Result Analysis(2018)**[Link](/project/customer_survey.html)
 
 ---
 
-**Keyword Recommendation System(2018)**
+**Keyword Recommendation System(2018)**[Link](/project/keyword_recommendation.html)
 
 ---
 
