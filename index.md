@@ -7,7 +7,8 @@ layout: default
 <img class="profile-picture" src="shiba.jpg">
 
 Hello!
-I am currently a research intern at Korea Institute of Science and Technology (KIST). I am a member of [KIST Data Science Team](https://kdst.tistory.com/). My primary research interests lie in the area of natural language processing and machine learning. Before joining KIST, I received a Bachelor's degree in Applied Statistics and Computer Science from Yonsei University.<br>
+I am currently a research intern at Korea Institute of Science and Technology (KIST). I am a member of [KIST Data Science Team](https://kdst.tistory.com/). My research interests lie in the broad field of machine learning and natural language processing and machine learning. Before joining KIST, I received a B.A. in Applied Statistics and a B.S. in Computer Science from Yonsei University.
+<br><br>
 [<img class="icon" src="pdf-icon-gray20.png" width="20px" height="20px">Curriculum Vitae](CV_Woojeong_Kim.pdf)
 [<img class="icon" src="asset/git-icon.jpg" width="20px" height="20px">GitHub](https://github.com/friendshipkim)
 [<img class="icon" src="asset/email-icon.png" width="20px" height="20px">Email](kwj962004@gmail.com)
