@@ -15,17 +15,17 @@ layout: default
 ---
 
 ## Research Interest
-**Natural Language Generation**
+&nbsp;&nbsp;&nbsp;&nbsp;**Natural Language Generation**
   - Generating diverse and context-coherent output
   - dialogue agent with persona
 
-**Word Embeddings**
+&nbsp;&nbsp;&nbsp;&nbsp;**Word Embeddings**
   - Interpretable & Explainable Word embeddings
 
-**Efficient Neural Net**
+&nbsp;&nbsp;&nbsp;&nbsp;**Efficient Neural Net**
   - Neural Network Pruning, Knowledge Distillation
 
-**Neuromorphic Learning Models**
+&nbsp;&nbsp;&nbsp;&nbsp;**Neuromorphic Learning Models**
   - Spiking Neural Networks, Hierarchical Temporal Memory
 
 ---
