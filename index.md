@@ -16,7 +16,6 @@ layout: default
 ---
 
 ## Research Interest
-
 #### Natural Language Generation
 - Generating diverse and context-coherent output
 - dialogue agent with persona
