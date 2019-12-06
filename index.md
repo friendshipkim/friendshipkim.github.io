@@ -15,44 +15,12 @@ I am a Research Assistant in Korea Institute of Science Technology. Previously, 
 - Generating diverse and context-coherent dialogue
 - Interpretable word representations
 - High-performance unsupervised neural models
-- [Test](/project/dummy_md.html)
-
-## Skills
-
-#### Programming Languages
-Python(Pytorch, Tenserflow), Java, C, C++, R, SAS, HTML, PHP
-#### Servers and Databases
-Amazon Web services, Google Cloud, PySpark, Hadoop Mapreduce, MySQL
 
 ## Publications
 
 1. *Improving Word Representations with Weighted Subword Information*, Lead Author (in preparation, expected to be submitted in Dec, 2019)
 2. *Dynamic Filter Pruning with Clustering for Deep Convolutional Neural Networks Acceleration*, Second Author (in preparation, expected to be submitted in Nov, 2019)
 
-## Education
-#### [Yonsei University](https://www.yonsei.ac.kr)<br>
-<img class="profile-picture" src="Yonsei.png">
-Bachelor of Science in **Computer Science**, College of Engineering,<br>
-Spring 2014 - Fall 2018<br>
-Bachelor of Arts in **Applied Statistics**, College of Commerce & Economics,<br>
-Spring 2014 - Fall 2018<br><br>
-**Honors Student(2018)**<br><br>
-**Next Century Humanities Scholarships**, Korea Student Aid Foundation (2014 – 2018)<br>
-*Received a full scholarship for four years, based on grade*
-
----
-
-#### [State University of Albany](https://www.albany.edu)<br>
-*Exchange Student*<br>
-Jan, 2016 - June, 2016
-
----
-
-#### [Ewha Girl's Foriegn Language High School](https://www.ewha-gfh.hs.kr)<br>
-Majored in Chinese, English<br>
-Mar, 2011 - Feb, 2014
-
----
 
 ## Work Experience
 
@@ -76,15 +44,19 @@ attention.
 - Utilized Latent Dirichlet Allocation topic modeling to categorize conversations between
 customers and counselors by subject.
 
-## Teaching
+---
 
-#### DS School
-*Teaching Assistant* <br>
-- Taught introductory data science in preparation for Kaggle competitions
-- Covered Python programming as well as the theory and implementation of machine learning algorithms
+## Projects
+**Deep Learning Writing Fiction(2018)**[Link](/project/dummy_md.html)
 
-#### Dream Start Program, Samsung Dream Scholarship Foundation
-*Teaching Assistant*<br>
-Seoul, Republic of Korea<br>
-Jul, 2015 – Aug, 2015<br>
-- Tutored low-income middle school students in English.
+---
+
+**Customer Survey Result Analysis(2018)**
+
+---
+
+**Keyword Recommendation System(2018)**
+
+---
+
+**Course Enrollment Prediction(2018)**
