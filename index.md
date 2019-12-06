@@ -24,7 +24,7 @@ I am a Research Assistant in Korea Institute of Science Technology. Previously, 
 ---
 
 ## Projects
-**Deep Learning Writing Fiction(2018)**[Link](/project/dummy_md.html)
+**Deep Learning Writing Fiction(2018)**[Link](/project/fiction.html)
 
 ---
 
