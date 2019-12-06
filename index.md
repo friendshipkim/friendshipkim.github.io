@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Woo-Jeong, Kim
+## Woojeong Kim
 
 <img class="profile-picture" src="shiba.jpg">
 
