@@ -12,9 +12,11 @@ I am currently a research intern at Korea Institute of Science and Technology (K
 [<img class="icon" src="pdf-icon-gray20.png" width="20px" height="20px">Curriculum Vitae](CV_Woojeong_Kim.pdf)
 [<img class="icon" src="asset/git-icon.jpg" width="20px" height="20px">GitHub](https://github.com/friendshipkim)
 [<img class="icon" src="asset/email-icon.png" width="20px" height="20px">Email](mailto: kwj962004@gmail.com)
+<br>
 
 ---
 
+<br>
 ### Research Interest
 
 #### Natural Language Processing with Machine Learning
