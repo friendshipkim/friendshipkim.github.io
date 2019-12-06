@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Woojeong Kim (김우정)
+<h1> Woojeong Kim <span style="color:gray;font-size:0.5em">(김우정)</span></h1>
 
 <img class="profile-picture" src="shiba.jpg">
 
@@ -14,8 +14,6 @@ layout: default
 <br>
 
 ---
-
-<br>
 
 ## Research Interest
 
