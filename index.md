@@ -26,7 +26,7 @@ layout: default
 &nbsp;&nbsp;&nbsp;&nbsp;**·**&nbsp;&nbsp;Neural Network Pruning, Knowledge Distillation<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;**Neuromorphic Learning Models**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;**·**&nbsp;&nbsp;Spiking Neural Networks, Hierarchical Temporal Memory
+&nbsp;&nbsp;&nbsp;&nbsp;**·**&nbsp;&nbsp;Spiking Neural Networks, Hierarchical Temporal Memory<br>
 
 ---
 
