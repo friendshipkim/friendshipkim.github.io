@@ -1,6 +1,6 @@
 <center>
 <h1>Deep Learning Writing Fiction</h1>
-<h3>Collaborated with [Poza Labs.](http://www.pozalabs.com/)</h3>
+<h3>Collaborated with <a href="http://www.pozalabs.com/>Poza Labs</a></h3>
 </center>
 
 
