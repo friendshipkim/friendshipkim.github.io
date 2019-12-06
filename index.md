@@ -34,8 +34,8 @@ layout: default
 <a href="/project/fiction.html" target="_blank"><img class="thumbnail" src="shiba.jpg"></a>
 
 **Deep Learning Writing Fiction(2018)**[Link](/project/fiction.html)
-- 1
-- 2
+**·** 1
+**·** 2
 
 ---
 
