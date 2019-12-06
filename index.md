@@ -16,8 +16,8 @@ layout: default
 
 ## Research Interest
 &nbsp;&nbsp;&nbsp;&nbsp;**Natural Language Generation**
-  - Generating diverse and context-coherent output
-  - dialogue agent with persona
+&nbsp;&nbsp;&nbsp;&nbsp;- Generating diverse and context-coherent output
+&nbsp;&nbsp;&nbsp;&nbsp;- dialogue agent with persona
 
 &nbsp;&nbsp;&nbsp;&nbsp;**Word Embeddings**
   - Interpretable & Explainable Word embeddings
