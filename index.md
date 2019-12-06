@@ -33,7 +33,7 @@ layout: default
 ## Projects
 <a href="/project/fiction.html" target="_blank"><img class="thumbnail" src="shiba.jpg"></a>
 
-**Deep Learning Writing Fiction(2018)**[Link](/project/fiction.html)
+**Deep Learning Writing Fiction(2018)**
 **·** 1
 **·** 2
 
