@@ -28,7 +28,7 @@ I am a Research Assistant in Korea Institute of Science Technology. Previously, 
 Seoul, Republic of Korea / Mar, 2019 – Present
 
 ## Research Experience
-#### Data Engineering Laboratory, Yonsei University
+**Data Engineering Laboratory**, Yonsei University
 *Research Assistant (Advisor: Professor Sanghyun Park)*<br>
 Seoul, Republic of Korea<br>
 Oct, 2017 – Aug, 2018<br><br>
