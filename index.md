@@ -33,25 +33,25 @@ layout: default
 ## Projects
 <a href="/project/fiction.html" target="_blank"><img class="thumbnail" src="shiba.jpg"></a>
 
-**Deep Learning Writing Fiction(2018)**<br>
+**Deep Learning Writing Fiction (2018)**<br>
 **·** 1<br>
 **·** 2
 
 ---
 
-**Customer Survey Result Analysis(2018)**[Link](/project/customer_survey.html)
+**Customer Survey Result Analysis (2018)**[Link](/project/customer_survey.html)
 - 1
 - 2
 
 ---
 
-**Keyword Recommendation System(2018)**[Link](/project/keyword_recommendation.html)
+**Keyword Recommendation System (2018)**[Link](/project/keyword_recommendation.html)
 - 1
 - 2
 
 ---
 
-**Course Enrollment Prediction(2018)**[Link](/project/course_enrollment.html)
+**Course Enrollment Prediction (2018)**[Link](/project/course_enrollment.html)
 - 1
 - 2
 
