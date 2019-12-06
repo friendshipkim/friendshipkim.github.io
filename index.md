@@ -17,16 +17,16 @@ layout: default
 ## Research Interest
 &nbsp;&nbsp;&nbsp;&nbsp;**Natural Language Generation**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**·**&nbsp;&nbsp;Generating diverse and context-coherent output<br>
-&nbsp;&nbsp;&nbsp;&nbsp;**·**&nbsp;&nbsp;dialogue agent with persona<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;**·**&nbsp;&nbsp;dialogue agent with persona<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;**Word Embeddings**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;**·**&nbsp;&nbsp;Interpretable & Explainable Word embeddings<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;**·**&nbsp;&nbsp;Interpretable & Explainable Word embeddings<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;**Efficient Neural Net**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;**·**&nbsp;&nbsp;Neural Network Pruning, Knowledge Distillation<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;**·**&nbsp;&nbsp;Neural Network Pruning, Knowledge Distillation<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;**Neuromorphic Learning Models**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;**·**&nbsp;&nbsp;Spiking Neural Networks, Hierarchical Temporal Memory<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**·**&nbsp;&nbsp;Spiking Neural Networks, Hierarchical Temporal Memory
 
 ---
 
