@@ -36,4 +36,4 @@ I am a Research Assistant in Korea Institute of Science Technology. Previously, 
 
 ---
 
-**Course Enrollment Prediction(2018)**
+**Course Enrollment Prediction(2018)**[Link](/project/course_enrollment.html)
