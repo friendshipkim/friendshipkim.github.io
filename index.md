@@ -25,15 +25,23 @@ I am a Research Assistant in Korea Institute of Science Technology. Previously, 
 
 ## Projects
 **Deep Learning Writing Fiction(2018)**[Link](/project/fiction.html)
+- 1
+- 2
 
 ---
 
 **Customer Survey Result Analysis(2018)**[Link](/project/customer_survey.html)
+- 1
+- 2
 
 ---
 
 **Keyword Recommendation System(2018)**[Link](/project/keyword_recommendation.html)
+- 1
+- 2
 
 ---
 
 **Course Enrollment Prediction(2018)**[Link](/project/course_enrollment.html)
+- 1
+- 2
