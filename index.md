@@ -6,8 +6,9 @@ layout: default
 
 <img class="profile-picture" src="shiba.jpg">
 
-I am a Research Assistant in Korea Institute of Science Technology. Previously, I was an undergraduate at Yonsei University from which I received a B.S. in Computer Science and a B.A. in Applied Statistics in 2019.<br>
-[<img class="icon" src="pdf-icon-gray.png" width="20px" height="20px">Curriculum Vitae](CV_Woojeong_Kim.pdf)
+Hello!
+I am currently a research intern at Korea Institute of Science and Technology (KIST). I am a member of [KIST Data Science Team](https://kdst.tistory.com/). My primary research interests lie in the area of natural language processing and machine learning. Before joining KIST, I received a Bachelor's degree in Applied Statistics and Computer Science from Yonsei University.<br>
+[<img class="icon" src="pdf-icon-gray20.png" width="20px" height="20px">Curriculum Vitae](CV_Woojeong_Kim.pdf)
 
 ## Research Interest
 
