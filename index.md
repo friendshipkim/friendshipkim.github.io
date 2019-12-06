@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Woojeong Kim
+# Woojeong Kim
 
 <img class="profile-picture" src="shiba.jpg">
 
@@ -18,21 +18,21 @@ I am currently a research intern at Korea Institute of Science and Technology (K
 
 <br>
 
-### Research Interest
+## Research Interest
 
 #### Natural Language Processing with Machine Learning
 - Generating diverse and context-coherent dialogue
 - Interpretable word representations
 - High-performance unsupervised neural models
 
-### Publications
+## Publications
 
 1. *Improving Word Representations with Weighted Subword Information*, Lead Author (in preparation, expected to be submitted in Dec, 2019)
 2. *Dynamic Filter Pruning with Clustering for Deep Convolutional Neural Networks Acceleration*, Second Author (in preparation, expected to be submitted in Nov, 2019)
 
 ---
 
-### Projects
+## Projects
 **Deep Learning Writing Fiction(2018)**[Link](/project/fiction.html)
 - 1
 - 2
