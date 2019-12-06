@@ -53,6 +53,22 @@
             }
         }
     }
+    .thumbnail {
+        height: 120px;
+        width: 72px;
+        position: relative;
+        margin: 5px 0 0 5px;
+        float: left;
+        p & {
+            padding: 0;
+            margin: 0;
+        }
+        @media (max-width: $small-width) {
+            img {
+                margin-top: -5px;
+            }
+        }
+    }
     .icon {
         height: auto;
         width: auto;
