@@ -13,21 +13,23 @@ I am currently a research intern at Korea Institute of Science and Technology (K
 [<img class="icon" src="asset/git-icon.jpg" width="20px" height="20px">GitHub](https://github.com/friendshipkim)
 [<img class="icon" src="asset/email-icon.png" width="20px" height="20px">Email](mailto: kwj962004@gmail.com)
 
-## Research Interest
+---
+
+### Research Interest
 
 #### Natural Language Processing with Machine Learning
 - Generating diverse and context-coherent dialogue
 - Interpretable word representations
 - High-performance unsupervised neural models
 
-## Publications
+### Publications
 
 1. *Improving Word Representations with Weighted Subword Information*, Lead Author (in preparation, expected to be submitted in Dec, 2019)
 2. *Dynamic Filter Pruning with Clustering for Deep Convolutional Neural Networks Acceleration*, Second Author (in preparation, expected to be submitted in Nov, 2019)
 
 ---
 
-## Projects
+### Projects
 **Deep Learning Writing Fiction(2018)**[Link](/project/fiction.html)
 - 1
 - 2
