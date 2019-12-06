@@ -22,6 +22,7 @@ layout: default
 #### Natural Language Processing with Machine Learning
 - Generating diverse and context-coherent dialogue
 - Interpretable word representations
+
 #### High-performance unsupervised neural models
 - 
 - 
