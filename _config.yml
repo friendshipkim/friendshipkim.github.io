@@ -14,6 +14,6 @@ sass:
     style: compressed
     sass_dir: _sass
 
-nav:
- - name: "Home"
-   link: "/"
+# nav:
+# - name: "Home"
+#   link: "/"
