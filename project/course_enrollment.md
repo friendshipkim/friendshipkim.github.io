@@ -3,7 +3,7 @@
 <h3>Subtitle</h3>
 </center>
 
-![headimage](https://github.com/friendshipkim/friendshipkim.github.io/blob/master/asset/yonsei.jpg?raw=true){: width="700" height="262"}
+![headimage](https://github.com/friendshipkim/friendshipkim.github.io/blob/master/asset/yonsei.jpg?raw=true){: width="900" height="262"}
 이미지 들어가면 좋음
 
 ## Abstract
