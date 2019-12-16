@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+<title>Woojeong Kim</title>
 <h1> Woojeong Kim <span style="color:gray;font-size:0.7em"> 김우정</span></h1>
 
 <img class="profile-picture" src="./asset/profile_2.jpg">
