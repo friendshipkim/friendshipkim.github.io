@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h1> Woojeong Kim <span style="color:gray;font-size:0.7em">(김우정)</span></h1>
+<h1> Woojeong Kim <span style="color:gray;font-size:0.7em"> 김우정</span></h1>
 
 <img class="profile-picture" src="./asset/profile_2.jpg">
 
@@ -10,6 +10,7 @@ layout: default
 [<img class="icon" src="pdf-icon-gray20.png" width="15px" height="15px"> CV](CV_Woojeong_Kim.pdf)&nbsp;&nbsp;
 [<img class="icon" src="asset/git-icon.jpg" width="15px" height="15px"> GitHub](https://github.com/friendshipkim)&nbsp;&nbsp;
 [<img class="icon" src="asset/email-icon.png" width="15px" height="15px"> Email](mailto: woojeongkim@kist.re.kr)
+<br>
 <br>
 
 ---
@@ -60,4 +61,3 @@ layout: default
 ## Publications
 
 1. *REPrune: Filter Pruning via Representative Election*, Second Author, Under Review
-2. *Dynamic Filter Pruning with Clustering for Deep Convolutional Neural Networks Acceleration*, Second Author (in preparation, expected to be submitted in Nov, 2019)
