@@ -4,7 +4,7 @@ layout: default
 
 <h1> Woojeong Kim <span style="color:gray;font-size:0.7em">(김우정)</span></h1>
 
-<img class="profile-picture" src="./asset/profile.jpg">
+<img class="profile-picture" src="./asset/profile_2.jpg">
 
 <div style="text-align: justify"> Hello! I am currently a research intern at Korea Institute of Science and Technology (KIST). I am a member of <a href="https://kdst.tistory.com/">KIST Data Science Team</a>. My research interests lie in the broad field of machine learning and natural language processing. Before joining KIST, I received a B.A. in Applied Statistics and a B.S. in Computer Science from Yonsei University.</div>
 [<img class="icon" src="pdf-icon-gray20.png" width="15px" height="15px"> CV](CV_Woojeong_Kim.pdf)&nbsp;&nbsp;
