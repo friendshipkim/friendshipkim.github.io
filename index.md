@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h1> Woojeong Kim <span style="color:gray;font-size:0.5em">(김우정)</span></h1>
+<h1> Woojeong Kim <span style="color:gray;font-size:1.0em">(김우정)</span></h1>
 
 <img class="profile-picture" src="shiba.jpg">
 
