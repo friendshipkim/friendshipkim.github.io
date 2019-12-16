@@ -11,7 +11,6 @@ layout: default
 [<img class="icon" src="asset/git-icon.jpg" width="15px" height="15px"> GitHub](https://github.com/friendshipkim)&nbsp;&nbsp;
 [<img class="icon" src="asset/email-icon.png" width="15px" height="15px"> Email](mailto: woojeongkim@kist.re.kr)
 <br>
-<br>
 
 ---
 
