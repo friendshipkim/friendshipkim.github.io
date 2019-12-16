@@ -31,11 +31,11 @@ layout: default
 ---
 
 ## Projects
-<a href="/project/fiction.html" target="_blank"><img class="thumbnail" src="shiba.jpg"></a>
+<a href="/project/fiction.html"><img class="thumbnail" src="shiba.jpg"></a>
 
 **Deep Learning Writing Fiction (2018)**<br>
-**·** 1<br>
-**·** 2
+**·** 1<br> Collaborated with the startup \Poza Labs
+**·** 2 The project was presented at PyCon Korea 2018.
 
 ---
 
@@ -59,5 +59,5 @@ layout: default
 
 ## Publications
 
-1. *Improving Word Representations with Weighted Subword Information*, Lead Author (in preparation, expected to be submitted in Dec, 2019)
+1. *REPrune: Filter Pruning via Representative Election*, Second Author, Under Review
 2. *Dynamic Filter Pruning with Clustering for Deep Convolutional Neural Networks Acceleration*, Second Author (in preparation, expected to be submitted in Nov, 2019)
