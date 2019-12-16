@@ -37,12 +37,11 @@
         font-style: italic;
     }
     .profile-picture {
-        height: 300;
-        width: 200;
+        height: 300px;
+        width: 200px;
         position: relative;
         margin: -10px 0 0 15px;
         float: left;
-        border-radius: 50%;
         p & {
             padding: 0;
             margin: 0;
