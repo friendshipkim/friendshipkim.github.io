@@ -7,9 +7,9 @@ layout: default
 <img class="profile-picture" src="./asset/profile.jpg">
 
 <div style="text-align: justify"> Hello! I am currently a research intern at Korea Institute of Science and Technology (KIST). I am a member of <a href="https://kdst.tistory.com/">KIST Data Science Team</a>. My research interests lie in the broad field of machine learning and natural language processing. Before joining KIST, I received a B.A. in Applied Statistics and a B.S. in Computer Science from Yonsei University.</div>
-[<img class="icon" src="pdf-icon-gray20.png" width="15px" height="15px">CV&nbsp](CV_Woojeong_Kim.pdf)&nbsp;&nbsp;
-[<img class="icon" src="asset/git-icon.jpg" width="15px" height="15px">GitHub&nbsp](https://github.com/friendshipkim)&nbsp;&nbsp;
-[<img class="icon" src="asset/email-icon.png" width="15px" height="15px">Email&nbsp](mailto: kwj962004@gmail.com)
+[<img class="icon" src="pdf-icon-gray20.png" width="15px" height="15px"> CV](CV_Woojeong_Kim.pdf)&nbsp;&nbsp;
+[<img class="icon" src="asset/git-icon.jpg" width="15px" height="15px"> GitHub](https://github.com/friendshipkim)&nbsp;&nbsp;
+[<img class="icon" src="asset/email-icon.png" width="15px" height="15px"> Email](mailto: woojeongkim@kist.re.kr)
 <br>
 
 ---
@@ -34,7 +34,7 @@ layout: default
 <a href="/project/fiction.html"><img class="thumbnail" src="shiba.jpg"></a>
 
 **Deep Learning Writing Fiction (2018)**<br>
-**·** Collaborated with the startup "Poza Labs"
+**·** Collaborated with the startup "Poza Labs" <br>
 **·** The project was presented at PyCon Korea 2018.
 
 ---
