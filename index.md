@@ -31,7 +31,7 @@ layout: default
 
 ---
 ## Projects (Now Moving)
-<a href=""><img class="thumbnail" src="./asset/thumbnail_project1.png"></a>
+<a href=""><img class="thumbnail" src="./asset/thumbnail/project1.png"></a>
 <a href="" class="soft">**Deep Learning Writing Fiction (2018)**</a><br> 
 <span style = "font-size:medium;">
 **·** Collaborated with the startup "Poza Labs" <br>
@@ -39,7 +39,7 @@ layout: default
 </span>
 
 ---
-<a href=""><img class="thumbnail" src="./asset/thumbnail_project2.png"></a>
+<a href=""><img class="thumbnail" src="./asset/thumbnail/project2.png"></a>
 <a href="">**Customer Survey Result Analysis (2018)**</a><br> 
 <span style = "font-size:medium;">
 **·** Categorized survey results based on respondents' consumption habits <br>
@@ -47,7 +47,7 @@ layout: default
 </span>
 
 ---
-<a href=""><img class="thumbnail" src="./asset/thumbnail_project3.png"></a>
+<a href=""><img class="thumbnail" src="./asset/thumbnail/project3.png"></a>
 <a href="">**Keyword Recommendation System (2018)**</a><br> 
 <span style = "font-size:medium;">
 **·** Collaborated with the startup "Additor" <br>
@@ -56,7 +56,7 @@ interested in
 </span>
 
 ---
-<a href=""><img class="thumbnail" src="./asset/thumbnail_project4.png"></a>
+<a href=""><img class="thumbnail" src="./asset/thumbnail/project4.png"></a>
 <a href="">**Course Enrollment Prediction (2018)**</a><br>
 <span style = "font-size:medium;">
 **·** Predicted the minimum betting point required for enrollment in each class in a computer science
