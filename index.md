@@ -29,13 +29,13 @@ layout: default
 
 ---
 ## Projects (Now Moving)
-<a href=""><img class="thumbnail" src="./asset/shiba.jpg"></a>
+<a href=""><img class="thumbnail" src="./asset/thumbnail_project1.png"></a>
 <a href="">**Deep Learning Writing Fiction (2018)**</a><br> 
 **·** Collaborated with the startup "Poza Labs" <br>
 **·** The project was presented at PyCon Korea 2018.
 
 ---
-<a href=""><img class="thumbnail" src="./asset/shiba.jpg"></a>
+<a href=""><img class="thumbnail" src="./asset/thumbnail_project2.png"></a>
 <a href="">**Customer Survey Result Analysis (2018)**</a><br> 
 **·** Collaborated with the startup "Poza Labs" <br>
 **·** The project was presented at PyCon Korea 2018.
