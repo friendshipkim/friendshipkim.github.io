@@ -13,7 +13,6 @@ layout: default
 <br>
 
 ---
-
 ## Research Interest
 &nbsp;&nbsp;&nbsp;&nbsp;**Natural Language Generation**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**·**&nbsp;&nbsp;Generating diverse and context-coherent output<br>
@@ -27,15 +26,12 @@ layout: default
 
 &nbsp;&nbsp;&nbsp;&nbsp;**Neuromorphic Learning Models**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**·**&nbsp;&nbsp;Spiking Neural Networks, Hierarchical Temporal Memory<br>
-
 ---
-
 ## Projects
 <a href="/project/fiction.html"><img class="thumbnail" src="./asset/shiba.jpg"></a>
 <a href="/project/fiction.html">**Deep Learning Writing Fiction (2018)**</a><br> 
 **·** Collaborated with the startup "Poza Labs" <br>
 **·** The project was presented at PyCon Korea 2018.
-
 ---
 <a href="/project/fiction.html"><img class="thumbnail" src="./asset/shiba.jpg"></a>
 **Customer Survey Result Analysis (2018)**
@@ -59,3 +55,8 @@ layout: default
 ## Publications
 
 1. *REPrune: Filter Pruning via Representative Election*, Second Author, Under Review
+
+---
+## About Me
+
+I love traveling and watching all kinds of sport games (especially baseball and volleyball!)
