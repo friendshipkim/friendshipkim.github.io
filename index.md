@@ -32,28 +32,27 @@ layout: default
 
 ## Projects
 <a href="/project/fiction.html"><img class="thumbnail" src="./asset/shiba.jpg"></a>
-
-**Deep Learning Writing Fiction (2018)**<br>
+<a href="/project/fiction.html">**Deep Learning Writing Fiction (2018)**</a><br> 
 **·** Collaborated with the startup "Poza Labs" <br>
 **·** The project was presented at PyCon Korea 2018.
 
 ---
 <a href="/project/fiction.html"><img class="thumbnail" src="./asset/shiba.jpg"></a>
 **Customer Survey Result Analysis (2018)**
-- 1
-- 2
+**·** Collaborated with the startup "Poza Labs" <br>
+**·** The project was presented at PyCon Korea 2018.
 
 ---
 <a href="/project/fiction.html"><img class="thumbnail" src="./asset/shiba.jpg"></a>
 **Keyword Recommendation System (2018)**
-- 1
-- 2
+**·** Collaborated with the startup "Poza Labs" <br>
+**·** The project was presented at PyCon Korea 2018.
 
 ---
 <a href="/project/fiction.html"><img class="thumbnail" src="./asset/shiba.jpg"></a>
 **Course Enrollment Prediction (2018)**
-- 1
-- 2
+**·** Collaborated with the startup "Poza Labs" <br>
+**·** The project was presented at PyCon Korea 2018.
 
 ---
 
