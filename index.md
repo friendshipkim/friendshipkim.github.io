@@ -37,20 +37,22 @@ layout: default
 ---
 <a href=""><img class="thumbnail" src="./asset/thumbnail_project2.png"></a>
 <a href="">**Customer Survey Result Analysis (2018)**</a><br> 
-**·** Collaborated with the startup "Poza Labs" <br>
-**·** The project was presented at PyCon Korea 2018.
+**·** Analyzed and categorized survey results based on respondents' consumption habits <br>
+**·** Developed algorithms to recommend mobile applications based on usage history
 
 ---
 <a href=""><img class="thumbnail" src="./asset/thumbnail_project3.png"></a>
 <a href="">**Keyword Recommendation System (2018)**</a><br> 
-**·** Collaborated with the startup "Poza Labs" <br>
-**·** The project was presented at PyCon Korea 2018.
+**·** Collaborated with the startup "Additor" <br>
+**·** Extracted keywords from Additor posts and recommended new keywords that the writer might be
+interested in
 
 ---
 <a href=""><img class="thumbnail" src="./asset/thumbnail_project4.png"></a>
 <a href="">**Course Enrollment Prediction (2018)**</a><br> 
-**·** Collaborated with the startup "Poza Labs" <br>
-**·** The project was presented at PyCon Korea 2018.
+**·** Predicted the minimum betting point required for enrollment in each class in a computer science
+department <br>
+**·** Utilized various boosting tree models for classification
 
 ---
 
