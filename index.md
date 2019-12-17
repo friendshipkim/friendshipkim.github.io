@@ -32,6 +32,8 @@ layout: default
 <a href="/project/fiction.html">**Deep Learning Writing Fiction (2018)**</a><br> 
 **·** Collaborated with the startup "Poza Labs" <br>
 **·** The project was presented at PyCon Korea 2018.
+
+
 ---
 <a href="/project/fiction.html"><img class="thumbnail" src="./asset/shiba.jpg"></a>
 **Customer Survey Result Analysis (2018)**
