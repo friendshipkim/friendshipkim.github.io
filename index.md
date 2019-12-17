@@ -7,7 +7,7 @@ layout: default
 <img class="profile-picture" src="./asset/profile_2.jpg">
 
 <div style="text-align: justify"> Hello! I am currently a research intern at Korea Institute of Science and Technology (KIST). I am a member of <a href="https://kdst.tistory.com/">KIST Data Science Team</a>. My research interests lie in the broad field of machine learning and natural language processing. Before joining KIST, I received a B.A. in Applied Statistics and a B.S. in Computer Science from Yonsei University.</div>
-[<img class="icon" src="pdf-icon-gray20.png" width="15px" height="15px"> CV](CV_Woojeong_Kim.pdf)&nbsp;&nbsp;
+[<img class="icon" src="./asset/pdf-icon-gray20.png" width="15px" height="15px"> CV](CV_Woojeong_Kim.pdf)&nbsp;&nbsp;
 [<img class="icon" src="asset/git-icon.jpg" width="15px" height="15px"> GitHub](https://github.com/friendshipkim)&nbsp;&nbsp;
 [<img class="icon" src="asset/email-icon.png" width="15px" height="15px"> Email](mailto: woojeongkim@kist.re.kr)
 <br>
@@ -31,27 +31,27 @@ layout: default
 ---
 
 ## Projects
-<a href="/project/fiction.html"><img class="thumbnail" src="shiba.jpg"></a>
+<a href="/project/fiction.html"><img class="thumbnail" src="./asset/shiba.jpg"></a>
 
 **Deep Learning Writing Fiction (2018)**<br>
 **·** Collaborated with the startup "Poza Labs" <br>
 **·** The project was presented at PyCon Korea 2018.
 
 ---
-
-**Customer Survey Result Analysis (2018)**[Link](/project/customer_survey.html)
+<a href="/project/fiction.html"><img class="thumbnail" src="./asset/shiba.jpg"></a>
+**Customer Survey Result Analysis (2018)**
 - 1
 - 2
 
 ---
-
-**Keyword Recommendation System (2018)**[Link](/project/keyword_recommendation.html)
+<a href="/project/fiction.html"><img class="thumbnail" src="./asset/shiba.jpg"></a>
+**Keyword Recommendation System (2018)**
 - 1
 - 2
 
 ---
-
-**Course Enrollment Prediction (2018)**[Link](/project/course_enrollment.html)
+<a href="/project/fiction.html"><img class="thumbnail" src="./asset/shiba.jpg"></a>
+**Course Enrollment Prediction (2018)**
 - 1
 - 2
 
