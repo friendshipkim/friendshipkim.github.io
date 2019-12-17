@@ -40,7 +40,7 @@ layout: default
 
 ---
 <a href=""><img class="thumbnail" src="./asset/thumbnail/project2.png"></a>
-<a href="">**Customer Survey Result Analysis (2018)**</a><br> 
+<a href="" class="soft">**Customer Survey Result Analysis (2018)**</a><br> 
 <span style = "font-size:medium;">
 **·** Categorized survey results based on respondents' consumption habits <br>
 **·** Developed algorithms to recommend mobile applications based on usage history
@@ -48,7 +48,7 @@ layout: default
 
 ---
 <a href=""><img class="thumbnail" src="./asset/thumbnail/project3.png"></a>
-<a href="">**Keyword Recommendation System (2018)**</a><br> 
+<a href="" class="soft">**Keyword Recommendation System (2018)**</a><br> 
 <span style = "font-size:medium;">
 **·** Collaborated with the startup "Additor" <br>
 **·** Extracted keywords from Additor posts and recommended new keywords that the writer might be
@@ -57,7 +57,7 @@ interested in
 
 ---
 <a href=""><img class="thumbnail" src="./asset/thumbnail/project4.png"></a>
-<a href="">**Course Enrollment Prediction (2018)**</a><br>
+<a href="" class="soft">**Course Enrollment Prediction (2018)**</a><br>
 <span style = "font-size:medium;">
 **·** Predicted the minimum betting point required for enrollment in each class in a computer science
 department <br>
