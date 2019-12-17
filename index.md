@@ -2,6 +2,8 @@
 layout: default
 ---
 <title>Woojeong Kim</title>
+<link rel="shortcut icon" href="./asset/icon.png">
+
 <h1> Woojeong Kim <span style="color:gray;font-size:0.7em"> 김우정</span></h1>
 
 <img class="profile-picture" src="./asset/profile_2.jpg">
@@ -30,8 +32,8 @@ layout: default
 ---
 ## Projects (Now Moving)
 <a href=""><img class="thumbnail" src="./asset/thumbnail_project1.png"></a>
-<a href="">**Deep Learning Writing Fiction (2018)**</a><br> 
-<span style = " font-size:small;  color: green;">
+<a href="", class="soft">**Deep Learning Writing Fiction (2018)**</a><br> 
+<span style = "font-size:medium;">
 **·** Collaborated with the startup "Poza Labs" <br>
 **·** The project was presented at PyCon Korea 2018.
 </span>
@@ -39,22 +41,28 @@ layout: default
 ---
 <a href=""><img class="thumbnail" src="./asset/thumbnail_project2.png"></a>
 <a href="">**Customer Survey Result Analysis (2018)**</a><br> 
+<span style = "font-size:medium;">
 **·** Analyzed and categorized survey results based on respondents' consumption habits <br>
 **·** Developed algorithms to recommend mobile applications based on usage history
+</span>
 
 ---
 <a href=""><img class="thumbnail" src="./asset/thumbnail_project3.png"></a>
 <a href="">**Keyword Recommendation System (2018)**</a><br> 
+<span style = "font-size:medium;">
 **·** Collaborated with the startup "Additor" <br>
 **·** Extracted keywords from Additor posts and recommended new keywords that the writer might be
 interested in
+</span>
 
 ---
 <a href=""><img class="thumbnail" src="./asset/thumbnail_project4.png"></a>
-<a href="">**Course Enrollment Prediction (2018)**</a><br> 
+<a href="">**Course Enrollment Prediction (2018)**</a><br>
+<span style = "font-size:medium;">
 **·** Predicted the minimum betting point required for enrollment in each class in a computer science
 department <br>
 **·** Utilized various boosting tree models for classification
+</span>
 
 ---
 
