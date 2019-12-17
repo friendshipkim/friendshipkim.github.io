@@ -31,8 +31,10 @@ layout: default
 ## Projects (Now Moving)
 <a href=""><img class="thumbnail" src="./asset/thumbnail_project1.png"></a>
 <a href="">**Deep Learning Writing Fiction (2018)**</a><br> 
+<span style = " font-size:small;  color: green;">
 **·** Collaborated with the startup "Poza Labs" <br>
 **·** The project was presented at PyCon Korea 2018.
+</span>
 
 ---
 <a href=""><img class="thumbnail" src="./asset/thumbnail_project2.png"></a>
