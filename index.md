@@ -22,7 +22,7 @@ layout: default
 &nbsp;&nbsp;&nbsp;&nbsp;**Word Embeddings**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**·**&nbsp;&nbsp;Interpretable & Explainable Word embeddings<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;**Efficient Neural Net**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**Efficient Neural Network**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**·**&nbsp;&nbsp;Neural Network Pruning, Knowledge Distillation<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;**Neuromorphic Learning Models**<br>
