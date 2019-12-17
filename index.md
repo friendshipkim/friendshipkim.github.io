@@ -41,13 +41,13 @@ layout: default
 **·** The project was presented at PyCon Korea 2018.
 
 ---
-<a href=""><img class="thumbnail" src="./asset/shiba.jpg"></a>
+<a href=""><img class="thumbnail" src="./asset/thumbnail_project3.png"></a>
 <a href="">**Keyword Recommendation System (2018)**</a><br> 
 **·** Collaborated with the startup "Poza Labs" <br>
 **·** The project was presented at PyCon Korea 2018.
 
 ---
-<a href=""><img class="thumbnail" src="./asset/shiba.jpg"></a>
+<a href=""><img class="thumbnail" src="./asset/thumbnail_project4.png"></a>
 <a href="">**Course Enrollment Prediction (2018)**</a><br> 
 **·** Collaborated with the startup "Poza Labs" <br>
 **·** The project was presented at PyCon Korea 2018.
