@@ -32,7 +32,7 @@ layout: default
 ---
 ## Projects (Now Moving)
 <a href=""><img class="thumbnail" src="./asset/thumbnail_project1.png"></a>
-<a href="", class="soft">**Deep Learning Writing Fiction (2018)**</a><br> 
+<a href="" class="soft">**Deep Learning Writing Fiction (2018)**</a><br> 
 <span style = "font-size:medium;">
 **·** Collaborated with the startup "Poza Labs" <br>
 **·** The project was presented at PyCon Korea 2018.
@@ -42,7 +42,7 @@ layout: default
 <a href=""><img class="thumbnail" src="./asset/thumbnail_project2.png"></a>
 <a href="">**Customer Survey Result Analysis (2018)**</a><br> 
 <span style = "font-size:medium;">
-**·** Analyzed and categorized survey results based on respondents' consumption habits <br>
+**·** Categorized survey results based on respondents' consumption habits <br>
 **·** Developed algorithms to recommend mobile applications based on usage history
 </span>
 
