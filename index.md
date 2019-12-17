@@ -28,27 +28,27 @@ layout: default
 &nbsp;&nbsp;&nbsp;&nbsp;**·**&nbsp;&nbsp;Spiking Neural Networks, Hierarchical Temporal Memory<br>
 
 ---
-## Projects
-<a href="/project/fiction.html"><img class="thumbnail" src="./asset/shiba.jpg"></a>
-<a href="/project/fiction.html">**Deep Learning Writing Fiction (2018)**</a><br> 
+## Projects (Now Moving)
+<a href=""><img class="thumbnail" src="./asset/shiba.jpg"></a>
+<a href="">**Deep Learning Writing Fiction (2018)**</a><br> 
 **·** Collaborated with the startup "Poza Labs" <br>
 **·** The project was presented at PyCon Korea 2018.
 
 ---
-<a href="/project/fiction.html"><img class="thumbnail" src="./asset/shiba.jpg"></a>
-**Customer Survey Result Analysis (2018)**
+<a href=""><img class="thumbnail" src="./asset/shiba.jpg"></a>
+<a href="">**Customer Survey Result Analysis (2018)**</a><br> 
 **·** Collaborated with the startup "Poza Labs" <br>
 **·** The project was presented at PyCon Korea 2018.
 
 ---
-<a href="/project/fiction.html"><img class="thumbnail" src="./asset/shiba.jpg"></a>
-**Keyword Recommendation System (2018)**
+<a href=""><img class="thumbnail" src="./asset/shiba.jpg"></a>
+<a href="">**Keyword Recommendation System (2018)**</a><br> 
 **·** Collaborated with the startup "Poza Labs" <br>
 **·** The project was presented at PyCon Korea 2018.
 
 ---
-<a href="/project/fiction.html"><img class="thumbnail" src="./asset/shiba.jpg"></a>
-**Course Enrollment Prediction (2018)**
+<a href=""><img class="thumbnail" src="./asset/shiba.jpg"></a>
+<a href="">**Course Enrollment Prediction (2018)**</a><br> 
 **·** Collaborated with the startup "Poza Labs" <br>
 **·** The project was presented at PyCon Korea 2018.
 
