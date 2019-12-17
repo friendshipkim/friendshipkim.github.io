@@ -26,13 +26,13 @@ layout: default
 
 &nbsp;&nbsp;&nbsp;&nbsp;**Neuromorphic Learning Models**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;**·**&nbsp;&nbsp;Spiking Neural Networks, Hierarchical Temporal Memory<br>
+
 ---
 ## Projects
 <a href="/project/fiction.html"><img class="thumbnail" src="./asset/shiba.jpg"></a>
 <a href="/project/fiction.html">**Deep Learning Writing Fiction (2018)**</a><br> 
 **·** Collaborated with the startup "Poza Labs" <br>
 **·** The project was presented at PyCon Korea 2018.
-
 
 ---
 <a href="/project/fiction.html"><img class="thumbnail" src="./asset/shiba.jpg"></a>
