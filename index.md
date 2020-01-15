@@ -51,7 +51,7 @@ layout: default
 <a href=""><img class="thumbnail" src="./asset/thumbnail/project3.png"></a>
 <a href="" class="soft">**Keyword Recommendation System (2018)**</a><br> 
 <span style = "font-size:medium;">
-**·** Collaborated with the startup <a href="https://additor.io/", class="soft">Additor</a> <br>
+**·** Collaborated with the startup <br> <a href="https://additor.io/", class="soft">Additor</a> <br>
 **·** Extracted keywords from Additor posts and recommended new keywords that the writer might be
 interested in
 </span>
