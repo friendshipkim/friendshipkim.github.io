@@ -34,9 +34,8 @@ layout: default
 <a href=""><img class="thumbnail" src="./asset/thumbnail/project1.png"></a>
 <a href="" class="soft">**Deep Learning Writing Fiction (2018)**</a><br> 
 <span style = "font-size:medium;">
-**·** Collaborated with the startup <a href="http://www.pozalabs.com/">Poza Labs</a> <br>
+**·** Presented at PyCon Korea 2018, Collaborated with the startup <a href="http://www.pozalabs.com/">Poza Labs</a> <br>
 **·** Transformer model retrieved the next sentence given the previous five sentences <br>
-**·** The project was presented at PyCon Korea 2018.
 </span>
 
 ---
