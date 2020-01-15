@@ -35,7 +35,7 @@ layout: default
 <a href="" class="soft">**Deep Learning Writing Fiction (2018)**</a><br> 
 <span style = "font-size:medium;">
 **·** Presented at PyCon Korea 2018, Collaborated with the startup <a href="http://www.pozalabs.com/">Poza Labs</a> <br>
-**·** Transformer model retrieved the next sentence given the previous five sentences <br>
+**·** Wrote fantasy fiction with transformer model by retrieving the next sentence given the previous five sentences <br>
 </span>
 
 ---
@@ -43,7 +43,7 @@ layout: default
 <a href="" class="soft">**Customer Survey Result Analysis (2018)**</a><br> 
 <span style = "font-size:medium;">
 **·** Categorized survey results based on respondents' consumption habits <br>
-**·** Developed algorithms to recommend mobile applications based on usage history
+**·** Recommend mobile applications based on usage history
 </span>
 
 ---
