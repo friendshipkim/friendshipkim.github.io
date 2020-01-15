@@ -66,7 +66,7 @@ department <br>
 </span>
 
 ---
-<a href=""><img class="thumbnail" src="./asset/thumbnail/project4.png"></a>
+<a href=""><img class="thumbnail" src="./asset/thumbnail/project5.png"></a>
 <a href="" class="soft">**Persona-bot (2018)**</a><br>
 <span style = "font-size:medium;">
 **·** Developed a dialogue model that generated different answers, depending on the personal connections
