@@ -34,7 +34,7 @@ layout: default
 <a href=""><img class="thumbnail" src="./asset/thumbnail/project1.png"></a>
 <a href="" class="soft">**Deep Learning Writing Fiction (2018)**</a><br> 
 <span style = "font-size:medium;">
-**·** Presented at PyCon Korea 2018, Collaborated with the startup <a href="http://www.pozalabs.com/">Poza Labs</a> <br>
+**·** Presented at <a href="https://archive.pycon.kr/2018/en/program/list/">PyCon Korea 2018</a>, Collaborated with the startup <a href="http://www.pozalabs.com/">Poza Labs</a> <br>
 **·** Wrote fantasy fiction with transformer model by retrieving the next sentence given the previous five sentences <br>
 </span>
 
