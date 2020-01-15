@@ -35,7 +35,7 @@ layout: default
 <a href="" class="soft">**Deep Learning Writing Fiction (2018)**</a><br> 
 <span style = "font-size:medium;">
 **·** Collaborated with the startup <a href="http://www.pozalabs.com/">Poza Labs</a> <br>
-**·** retrieves the next sentence given the previous five sentences <br>
+**·** Transformer model retrieved the next sentence given the previous five sentences <br>
 **·** The project was presented at PyCon Korea 2018.
 </span>
 
@@ -66,6 +66,14 @@ department <br>
 </span>
 
 ---
+<a href=""><img class="thumbnail" src="./asset/thumbnail/project4.png"></a>
+<a href="" class="soft">**Persona-bot (2018)**</a><br>
+<span style = "font-size:medium;">
+**·** Developed a dialogue model that generated different answers, depending on the personal connections
+of individual television characters.<br>
+**·** Developed an answer retrieval and generation model and served them through mobile messenger
+application "KakaoTalk."
+</span>
 
 ## Publications
 
