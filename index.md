@@ -39,6 +39,15 @@ layout: default
 </span>
 
 ---
+<a href=""><img class="thumbnail" src="./asset/thumbnail/project5.png"></a>
+<a href="" class="soft">**Persona-bot (2018)**</a><br>
+<span style = "font-size:medium;">
+**·** Developed a dialogue model that generated different answers, depending on the personal connections
+of individual television characters<br>
+**·** Served the chatbot through mobile messenger application "KakaoTalk"
+</span>
+
+---
 <a href=""><img class="thumbnail" src="./asset/thumbnail/project2.png"></a>
 <a href="" class="soft">**Customer Survey Result Analysis (2018)**</a><br> 
 <span style = "font-size:medium;">
@@ -64,15 +73,7 @@ department <br>
 **·** Utilized various boosting tree models for classification
 </span>
 
----
-<a href=""><img class="thumbnail" src="./asset/thumbnail/project5.png"></a>
-<a href="" class="soft">**Persona-bot (2018)**</a><br>
-<span style = "font-size:medium;">
-**·** Developed a dialogue model that generated different answers, depending on the personal connections
-of individual television characters.<br>
-**·** Developed an answer retrieval and generation model and served them through mobile messenger
-application "KakaoTalk."
-</span>
+
 
 ## Publications
 
