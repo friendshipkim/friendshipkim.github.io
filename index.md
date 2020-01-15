@@ -34,7 +34,7 @@ layout: default
 <a href=""><img class="thumbnail" src="./asset/thumbnail/project1.png"></a>
 <a href="" class="soft">**Deep Learning Writing Fiction (2018)**</a><br> 
 <span style = "font-size:medium;">
-<div class="content" > Collaborated with the startup <a href="https://kdst.tistory.com/">Poza Labs</a>. My research interests lie in the broad field of machine learning and natural language processing. Before joining KIST, I received a B.A. in Applied Statistics and a B.S. in Computer Science from Yonsei University.</div>
+<div class="content" > Collaborated with the startup <a href="http://www.pozalabs.com/">Poza Labs</a>. My research interests lie in the broad field of machine learning and natural language processing. Before joining KIST, I received a B.A. in Applied Statistics and a B.S. in Computer Science from Yonsei University.</div>
 <div>
 **·** Collaborated with the startup <a href="http://www.pozalabs.com/", class="soft">Poza Labs</a> <br>
 **·** retrieves the next sentence given the previous five sentences <br>
@@ -54,7 +54,7 @@ layout: default
 <a href=""><img class="thumbnail" src="./asset/thumbnail/project3.png"></a>
 <a href="" class="soft">**Keyword Recommendation System (2018)**</a><br> 
 <span style = "font-size:medium;">
-**·** Collaborated with the startup <br> <a href="https://additor.io/", class="soft">Additor</a> <br>
+**·** Collaborated with the startup <a href="https://additor.io/">Additor</a> <br>
 **·** Extracted keywords from Additor posts and recommended new keywords that the writer might be
 interested in
 </span>
